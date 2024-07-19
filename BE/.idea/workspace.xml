@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6916bf1f-f62d-4cd2-bd0b-ef15615147fa" name="Changes" comment="detail product complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Case Specification Docs/Use case specification - group 24.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/controller/CardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/controller/CardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/dto/ProcessTransactionReqDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/dto/ProcessTransactionReqDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/service/CardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interbank/src/main/java/com/example/interbank/service/CardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interbank/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../interbank/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Letrieusang&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nicknewbie2k3/ISD.ICT.20232.24.git&quot;,
+    &quot;accountId&quot;: &quot;28282ebe-f10b-4e0c-aca0-91478d789f2d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gxxlBVy4QawIoZ4GeoM7Dr4Aqj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "HTTP Request.generated-requests | #5.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "#11 on master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/parkourpro/Desktop/New folder/ISD.ICT.20232.24/BE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6916bf1f-f62d-4cd2-bd0b-ef15615147fa" name="Changes" comment="" />
+      <created>1716653178656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716653178656</updated>
+      <workItem from="1718575352424" duration="809000" />
+      <workItem from="1718728766845" duration="1162000" />
+      <workItem from="1718765260089" duration="644000" />
+      <workItem from="1718885956218" duration="849000" />
+      <workItem from="1718887283648" duration="7737000" />
+      <workItem from="1718895176556" duration="827000" />
+      <workItem from="1719198502386" duration="20000" />
+      <workItem from="1719198822162" duration="1638000" />
+      <workItem from="1719206211546" duration="1573000" />
+      <workItem from="1719212758270" duration="1322000" />
+    </task>
+    <task id="LOCAL-00001" summary="product api">
+      <option name="closed" value="true" />
+      <created>1718604560651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718604560652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="detail product">
+      <option name="closed" value="true" />
+      <created>1718696538073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718696538073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="more entities">
+      <option name="closed" value="true" />
+      <created>1718699888446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718699888446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="migration, more table">
+      <option name="closed" value="true" />
+      <created>1718706254548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718706254548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="migration, more tables">
+      <option name="closed" value="true" />
+      <created>1718706382972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718706382972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="da1484c1-d8aa-4bfd-911c-27340e2cb078" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/indiv-son" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="da1484c1-d8aa-4bfd-911c-27340e2cb078">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="product api" />
+    <MESSAGE value="detail product" />
+    <MESSAGE value="migration, o" />
+    <MESSAGE value="more entities" />
+    <MESSAGE value="migration, more table" />
+    <MESSAGE value="migration, more tables" />
+    <MESSAGE value="detail product complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="detail product complete" />
+  </component>
+</project>

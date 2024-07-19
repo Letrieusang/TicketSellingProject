@@ -1,0 +1,52 @@
+folder Entity: map to a table in database
+dto: các thuộc tính phải nằm trong entity
+
+
+
+tạo 2 front end:
+    1: admin và manager
+    2: customer (ko cần đăng nhập)
+
+API:
+    admin:
+1. check đăng nhập:
+send request: username, password
+response: message successfully
+2. create user:
+request: role, username, password
+response: message successfully
+3. read user:
+request:
+response:
+4. update user:
+request:
+http://localhost:8080/api/users/
+{
+    "userId" : 3,
+    "roleId" : 1,
+    "username" :"mn2",
+    "password" : "000999",
+    "blocked" : true
+}
+response:
+5. delete user:
+request:
+response:
+6. block user: show list user and button to block
+request:
+response:
+7: unblock user: show list user and button to unblock
+request:
+response:
+8: change user role (same update user)
+9: change password himself
+request:
+response:
+
+
+
+    manager:
+check đăng nhập (như admin)
+
+
+    customer:

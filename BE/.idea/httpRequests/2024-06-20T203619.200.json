@@ -1,0 +1,11 @@
+{
+  "deliveryId": 1,
+  "recipientName": 1,
+  "email": "1",
+  "phoneNumber": "1",
+  "provinceId": 1,
+  "provinceName": "1",
+  "originalShippingFee": 1.00,
+  "address": "1",
+  "isRushOrder": true
+}
